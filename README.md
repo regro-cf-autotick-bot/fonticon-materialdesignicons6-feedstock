@@ -1,11 +1,11 @@
-About fonticon-materialdesignicons6
-===================================
-
-Home: https://github.com/tlambert03/fonticon-materialdesignicons6
-
-Package license: Apache-2.0
+About fonticon-materialdesignicons6-feedstock
+=============================================
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/fonticon-materialdesignicons6-feedstock/blob/main/LICENSE.txt)
+
+Home: https://github.com/pyapp-kit/fonticon-materialdesignicons6
+
+Package license: Apache-2.0
 
 Summary: Material Design Icons extension for superqt font icons
 
